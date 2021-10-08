@@ -9,7 +9,7 @@ In this project study we considered Random forest ML classifier model under Scik
 *	Rotor Misalignment
 *	Unbalanced Rotor
 
-## Libraires Used: 
+>## Libraires Used: 
 * Scikit Learn
 * Numpy
 * Pandas
